@@ -169,6 +169,7 @@ button:hover {
 
 	.container {
 		width: 100%;
+		box-shadow: none;
 	}
 
 	.padding {
